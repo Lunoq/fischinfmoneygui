@@ -1,6 +1,4 @@
-
-
-local module = require(game:HttpGet(('https://raw.githubusercontent.com/Lunoq/guicreatorbycrimsoncat-me-/refs/heads/main/main.lua'))
+local module = require(game:HttpGet(('https://raw.githubusercontent.com/Lunoq/guicreatorbycrimsoncat-me-/refs/heads/main/main.lua')))
 
 local a = module.MakeWindow("rod")
 
