@@ -1,5 +1,5 @@
 local http = game.HttpService
-local module = require(loadstring(http:GetAsync("https://raw.githubusercontent.com/Lunoq/fischinfmoneygui/refs/heads/main/script.lua"))())
+local module = require(http:GetAsync("https://raw.githubusercontent.com/Lunoq/fischinfmoneygui/refs/heads/main/script.lua"))
 
 local a = module.MakeWindow("rod")
 
