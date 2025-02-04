@@ -1,5 +1,5 @@
 local http = game.HttpService
-local module = require(loadstring(game:HttpGet(('https://raw.githubusercontent.com/Lunoq/fischinfmoneygui/refs/heads/main/script.lua'))))()
+local module = require(loadstring(game:HttpGet(('https://raw.githubusercontent.com/Lunoq/guicreatorbycrimsoncat-me-/refs/heads/main/main.lua'))))()
 
 local a = module.MakeWindow("rod")
 
